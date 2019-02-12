@@ -1,0 +1,98 @@
+Users\Training\Desktop\Courses\Spring Cloud\Lessons\0700\0702 Hystrix Project Setup\Hystrix Project Setup
+   │
+   ├[spring-microservices-hystrix]
+   │   │
+   │   ├[.mvn]
+   │   │   │
+   │   │   └[wrapper]
+   │   │       │
+   │   │       ├maven-wrapper
+   │   │       └maven-wrapper
+   │   ├[.settings]
+   │   │   │
+   │   │   ├org.eclipse.core.resources
+   │   │   ├org.eclipse.jdt.core
+   │   │   └org.eclipse.m2e.core
+   │   ├[src]
+   │   │   │
+   │   │   ├[main]
+   │   │   │   │
+   │   │   │   ├[java]
+   │   │   │   │   │
+   │   │   │   │   └[com]
+   │   │   │   │       │
+   │   │   │   │       └[oreilly]
+   │   │   │   │           │
+   │   │   │   │           └[cloud]
+   │   │   │   │               │
+   │   │   │   │               └SpringMicroservicesHystrixApplication
+   │   │   │   └[resources]
+   │   │   │       │
+   │   │   │       ├[static]
+   │   │   │       ├[templates]
+   │   │   │       └application
+   │   │   └[test]
+   │   │       │
+   │   │       └[java]
+   │   │           │
+   │   │           └[com]
+   │   │               │
+   │   │               └[oreilly]
+   │   │                   │
+   │   │                   └[cloud]
+   │   │                       │
+   │   │                       └SpringMicroservicesHystrixApplicationTests
+   │   ├
+   │   ├
+   │   ├
+   │   ├mvnw
+   │   ├mvnw
+   │   └pom
+   └[spring-microservices-simple-service]
+       │
+       ├[.mvn]
+       │   │
+       │   └[wrapper]
+       │       │
+       │       ├maven-wrapper
+       │       └maven-wrapper
+       ├[.settings]
+       │   │
+       │   ├org.eclipse.core.resources
+       │   ├org.eclipse.jdt.core
+       │   └org.eclipse.m2e.core
+       ├[src]
+       │   │
+       │   ├[main]
+       │   │   │
+       │   │   ├[java]
+       │   │   │   │
+       │   │   │   └[com]
+       │   │   │       │
+       │   │   │       └[oreilly]
+       │   │   │           │
+       │   │   │           └[cloud]
+       │   │   │               │
+       │   │   │               └SpringMicroservicesSimpleServiceApplication
+       │   │   └[resources]
+       │   │       │
+       │   │       ├[static]
+       │   │       ├[templates]
+       │   │       └application
+       │   └[test]
+       │       │
+       │       └[java]
+       │           │
+       │           └[com]
+       │               │
+       │               └[oreilly]
+       │                   │
+       │                   └[cloud]
+       │                       │
+       │                       └SpringMicroservicesSimpleServiceApplicationTests
+       ├
+       ├
+       ├
+       ├mvnw
+       ├mvnw
+       └pom

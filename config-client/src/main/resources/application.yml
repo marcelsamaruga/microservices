@@ -1,0 +1,8 @@
+# some of the properties are configured at C:\Users\marce\Documents\Estudo\microservices\config
+
+
+management:
+ endpoints:
+  web:
+   exposure:
+    include: "*"

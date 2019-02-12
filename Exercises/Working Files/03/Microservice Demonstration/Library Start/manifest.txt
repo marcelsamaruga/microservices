@@ -1,0 +1,55 @@
+Users\Training\Desktop\Courses\Spring Cloud\Lessons\0300\0304 Microservice Demonstration\Library Start
+   │
+   ├[.mvn]
+   │   │
+   │   └[wrapper]
+   │       │
+   │       ├maven-wrapper
+   │       └maven-wrapper
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.core.resources
+   │   ├org.eclipse.jdt.core
+   │   ├org.eclipse.m2e.core
+   │   └org.eclipse.wst.common.project.facet.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[cloud]
+   │   │   │               │
+   │   │   │               ├Book
+   │   │   │               ├BookRepository
+   │   │   │               └SpringMicroservicesLibraryApplication
+   │   │   └[resources]
+   │   │       │
+   │   │       ├[static]
+   │   │       │   │
+   │   │       │   └book
+   │   │       ├[templates]
+   │   │       ├application
+   │   │       └data
+   │   └[test]
+   │       │
+   │       └[java]
+   │           │
+   │           └[com]
+   │               │
+   │               └[oreilly]
+   │                   │
+   │                   └[cloud]
+   │                       │
+   │                       └SpringMicroservicesLibraryApplicationTests
+   ├
+   ├
+   ├
+   ├manifest
+   ├mvnw
+   ├mvnw
+   └pom
